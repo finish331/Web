@@ -1,0 +1,132 @@
+html{
+    background: #EDF2C5
+}
+h1{
+    margin-top:50;
+    padding-bottom: 10px;
+    font-family: 'Arial Black';
+    font-size :300%;
+    width: 44px;
+    height: 36px;
+    color:#778A50;
+}
+.top-area h1{
+    float: left;
+}
+.top-area table{
+    margin-top:53px;
+    margin-right:10px;
+    border-right: 1px solid #778A50;
+    float: right;
+}
+.LOGIN{
+    width: 60px;
+	height: 25px;
+	margin-left: 10px;
+    margin-right: 10px;
+    float: right;
+	margin-top: 54px;
+	border: 1px solid #778A50;
+	border-radius: 3px;
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 14px;
+	line-height:25px;
+	text-align: center;
+	color: #778A50;
+}
+.JOIN{
+    width: 60px;
+	height: 25px;
+    float: right;
+	margin-top: 54px;
+	border: 1px solid #778A50;
+	border-radius: 3px;
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 14px;
+	line-height:25px;
+	text-align: center;
+	color: #778A50;
+}
+.options{
+    background: #778A50;
+    font-family: 'Arial Black';
+    color: #EDF2C5;
+    padding:16px 30px;
+    width: 940px;
+    margin-bottom: 20px;
+}
+.exception{
+    padding-right: 150px;
+}
+.container{
+    max-height: 1260px;
+    max-width:940px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.content-area{
+    margin-top: 10px;
+}
+.sidebar{
+    width:444px;
+    float: right;
+    margin-bottom: 35px;
+}
+.sidebar h3{
+    line-height : 45px;
+    padding-left: 30px;
+    font-family: 'Arial Black';
+    font-size: 16px;
+    background: #778A50;
+    color: #EDF2C5;
+}
+.word{
+    background: #F7FBDA;
+    font-family: 'Arial Regular';
+    font-size: 12px;
+    line-height: 1.33;
+    color: #7D7D7D;
+	padding: 3px 15px;
+}
+.line-word{
+    padding-bottom: 16px;
+    border-bottom: 1px solid black;
+    font-family: 'Arial Regular';
+    font-size: 12px;
+    line-height: 1.33;
+    color: #7D7D7D;
+}
+.main-area{
+    width:444px;
+    float: left;
+    margin-bottom: 35px;
+}
+.main-area p{
+    line-height: 45px;
+    background: #778A50;
+    font-family: 'Arial Black';
+    font-size: 16px;
+    color: #EDF2C5;
+    padding-left: 30px;
+}
+.imagePosition{
+    padding-right: 8px;
+}
+.clear::after{
+    content: "";
+    display: block;
+    clear: both;
+}
+footer{
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background: #778A50;
+    font-family: 'ArialMT Regular';
+    font-size: 12px;
+    color: #EDF2C5;
+}
+
+
