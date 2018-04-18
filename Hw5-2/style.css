@@ -1,0 +1,155 @@
+.logo{
+    height: 80px;
+    width: 150px;
+    padding-right: 120px;
+    padding-top: 20px;
+}
+.container{
+    padding-right: 80px;
+    padding-left: 80px;
+}
+
+.top-button{
+    margin-top: 75px;
+    margin-left: 60px;
+    font-size: 20px;
+    font-family: Arial;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+}
+.search{
+    display: flex;
+    flex-direction: column;
+    margin-left: 240px;
+}
+.search-top{
+    margin-top:20px;
+    margin-bottom: 35px;
+}
+.top-right{
+    display: flex;
+    flex-direction: row;
+}
+.right-button1{
+    margin-right:40px;
+    width: fit-content;
+    font-size: 18px;
+    font-weight: bold;
+    color:black;
+    text-decoration: none;
+    list-style: none;
+}
+.right-button2{
+    width: fit-content;
+    font-size: 18px;
+    font-weight: bold;
+    color:black;
+    text-decoration: none;
+    list-style: none;
+}
+.flex-top{
+    display: flex;
+}
+.input-search{
+    width:218px;
+    float: right;
+}
+.main-photo{
+    width: 100%;
+    max-width: 100%;
+    margin-top: 20px;
+}
+.second-photo{
+    height: 150px;
+    width: 100%;
+    max-width: 100%;
+    margin-top: 20px;
+}
+.photo-area{
+    max-width: 100%;
+    display: flex;
+    flex-direction: row;
+    margin-top:20px;
+}
+.photo1{
+    width: 32%;
+    margin-right:25px;
+}
+.name{
+    font-weight: bold;
+    font-family: Arial;
+}
+.onsale{
+    color: red;
+    margin-top:-15px;
+    font-weight: bold;
+    font-size: 22px;
+}
+.photo2{
+    width: 32%;
+    margin-right:25px;
+}
+.photo3{
+    width: 32%;
+}
+.button{
+    text-decoration:underline;
+    font-weight: bold;
+    background-color: gainsboro;
+    margin-right:5px;
+}
+.clear::after{
+    content: "";
+    display: block;
+    clear: both;
+}
+.icon-area{
+    text-align: center;
+    margin-top:100px;
+    margin-bottom: 20px;
+}
+.icon1{
+    width:45px;
+    height:48px;
+    margin-right:10px;
+}
+.icon2{
+    margin-right:5px;
+}
+footer{
+    background-color: rgba(104, 100, 100, 0.404);
+    padding-bottom: 20px;
+}
+footer a{
+    text-decoration: none;
+    padding-top:5px;
+    color:black;
+}
+.fotter-row{
+    display: flex;
+    flex-direction: row;
+}
+.column1{
+    display: flex;
+    flex-direction: column;
+    margin-left:300px;
+}
+.fotter-title{
+    font-size: 20px;
+    font-weight: bold;
+}
+.column2{
+    display: flex;
+    flex-direction: column;
+    margin-left:200px;
+}
+.column3{
+    display: flex;
+    flex-direction: column;
+    margin-left:200px;
+}
+.fotter-title{
+    font-size: 20px;
+    font-weight: bold;
+}
